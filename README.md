@@ -37,3 +37,6 @@ Feel free to contact me through my available profile/contact options.
 ---
 
 **Thank you for visiting my portfolio! 🚀**
+## 🖼️ Portfolio Sample
+
+![My GitHub Portfolio](file_00000000b0008207929fc93c7a85e6c8.png)
